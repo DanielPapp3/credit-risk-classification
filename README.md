@@ -4,7 +4,7 @@
 The objective of this challenge was to leverage various machine learning techniques to train and evaluate the performance of Logistic Regression Models based on loan risk labels ('0' for healthy loans and '1' for high-risk loans) to determine the creditworthiness of potential borrowers. The dataset used to train the models came from historical lending activity of a peer-to-peer lending services company provided by the instructors.
 
 ## Results
-* **Machine Learning Model 1:** Model 1, trained on the original data, was reasonably good in terms of overall accuracy as it predicted approximately 94.4% of the labels correctly. When looked at in more granular detail the model was great at predicting healthy loans as it posted precision and recall scores of 1.00 in that category. However, it left some room for improvement when dealing with high-risk loans, both in terms of correctly predicting the loans and identifying them within the dataset. Below is a summary of the model's performance on high-risk loans in more detail:
+* __Machine Learning Model 1:__ Model 1, trained on the original data, was reasonably good in terms of overall accuracy as it predicted approximately 94.4% of the labels correctly. When looked at in more granular detail the model was great at predicting healthy loans as it posted precision and recall scores of 1.00 in that category. However, it left some room for improvement when dealing with high-risk loans, both in terms of correctly predicting the loans and identifying them within the dataset. Below is a summary of the model's performance on high-risk loans in more detail:
     *  Precision (High-Risk): 0.87
     *  Recall (High-Risk): 0.89
 
