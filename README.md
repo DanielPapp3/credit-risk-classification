@@ -5,12 +5,12 @@ The objective of this challenge was to leverage various machine learning techniq
 
 ## Results
 * Machine Learning Model 1:
-  *  Model 1, trained on the original data, was reasonably good in terms of overall accuracy as it predicted approximately 94.4% of the labels correctly. When looked at in more granular detail the model was great at predicting healthy loans as it posted precision and recall scores of 1.00 in that category. However, it left some room for improvement when dealing with high-risk loans, both in terms of correctly predicting the loans and identifying them within the dataset. Below is a summary of the model's performance on high-risk loans in more detail:
+Model 1, trained on the original data, was reasonably good in terms of overall accuracy as it predicted approximately 94.4% of the labels correctly. When looked at in more granular detail the model was great at predicting healthy loans as it posted precision and recall scores of 1.00 in that category. However, it left some room for improvement when dealing with high-risk loans, both in terms of correctly predicting the loans and identifying them within the dataset. Below is a summary of the model's performance on high-risk loans in more detail:
     *  Precision (High-Risk): 0.87
     *  Recall (High-Risk): 0.89
 
 * Machine Learning Model 2:
-  *  Model 2, trained on the resampled data, was also great in terms of overall accuracy as it predicted approximately 99.6% of the labels correctly. When looked at in more granular detail the model still posted precision and recall scores of 1.00 in the healthy loan category. It also improved in terms of correctly identifying and predicting the high-risk loans as detailed below:
+Model 2, trained on the resampled data, was also great in terms of overall accuracy as it predicted approximately 99.6% of the labels correctly. When looked at in more granular detail the model still posted precision and recall scores of 1.00 in the healthy loan category. It also improved in terms of correctly identifying and predicting the high-risk loans as detailed below:
     *  Precision (High-Risk): 0.87
     *  Recall (High-Risk): 1.00
 
