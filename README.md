@@ -8,7 +8,7 @@ The objective of this challenge was to leverage various machine learning techniq
     *  Precision (High-Risk): 0.87
     *  Recall (High-Risk): 0.89
 
-* Machine Learning Model 2: Model 2, trained on the resampled data, was also great in terms of overall accuracy as it predicted approximately 99.6% of the labels correctly. When looked at in more granular detail the model still posted precision and recall scores of 1.00 in the healthy loan category. It also improved in terms of correctly identifying and predicting the high-risk loans as detailed below:
+* __Machine Learning Model 2:__ Model 2, trained on the resampled data, was also great in terms of overall accuracy as it predicted approximately 99.6% of the labels correctly. When looked at in more granular detail the model still posted precision and recall scores of 1.00 in the healthy loan category. It also improved in terms of correctly identifying and predicting the high-risk loans as detailed below:
     *  Precision (High-Risk): 0.87
     *  Recall (High-Risk): 1.00
 
